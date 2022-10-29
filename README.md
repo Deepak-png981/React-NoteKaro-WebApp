@@ -2,6 +2,9 @@
 NoteKaro app is build to take quick and crispy notes on your mobile phone or laptop.
 TechStack : ReactJS and BootStrap
 
+# Screenshot
+![Screenshot (255)](https://user-images.githubusercontent.com/64543095/198819220-a9084985-87b9-4cfe-8e5b-04121a80e64a.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
