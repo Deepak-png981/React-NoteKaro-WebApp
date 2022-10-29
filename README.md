@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React NoteKaro Web App
+NoteKaro app is build to take quick and crispy notes on your mobile phone or laptop.
+TechStack : ReactJS and BootStrap
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
